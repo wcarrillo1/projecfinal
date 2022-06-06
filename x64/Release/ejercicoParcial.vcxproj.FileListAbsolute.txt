@@ -1,0 +1,2 @@
+C:\Users\William Carrillo\OneDrive\UMG\Programacion\Parcial2\ejercicoParcial\x64\Release\ejercicoParcial.exe
+C:\Users\William Carrillo\OneDrive\UMG\Programacion\Parcial2\Nueva carpeta\ejercicoParcial\x64\Release\ejercicoParcial.exe
